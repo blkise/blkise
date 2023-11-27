@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blkise
+- 👋 Hi, I’m blkise
 - 👀 I’m interested in big data and python
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on dunno yet
